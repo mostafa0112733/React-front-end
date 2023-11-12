@@ -13,12 +13,12 @@ function Header() {
             <img
               src="./assets/stores_ar.jpg"
               className="mx-5"
-              alt="Alternative Text for the Image"
+              alt=""
             />
             <img
               src="./assets/hotline.jpg"
               className="mx-5"
-              alt="Alternative Text for the Image"
+              alt=""
             />
 
             <button
